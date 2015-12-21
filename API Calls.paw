@@ -72,7 +72,7 @@
     </object>
     <object type="LMREQUEST" id="z103">
         <attribute name="uuid" type="string">6285C829-907F-4E2C-B87B-249B9EA0A304</attribute>
-        <attribute name="url" type="string">https://api.spark.io/v1/devices/53ff6d066667574842581667/count2?access_token=841366f542924b56adc642168174836b7aa485e4</attribute>
+        <attribute name="url" type="string">https://api.spark.io/v1/devices/53ff6d066667574842581667/count1?access_token=841366f542924b56adc642168174836b7aa485e4</attribute>
         <attribute name="storecookies" type="bool">1</attribute>
         <attribute name="sendcookies" type="bool">1</attribute>
         <attribute name="redirectmethod" type="bool">0</attribute>
